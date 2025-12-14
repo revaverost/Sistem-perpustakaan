@@ -1,2 +1,11 @@
 # Sistem-perpustakaan
-Program Perpustakaan Ujikom
+Program Perpustakaan Sekolah Ujikom
+-Login
+-Input Buku
+-Input Siswa
+-Input Petugas
+-Edit Data
+-Hapus Data
+-Ganti sandi
+-Logout
+
